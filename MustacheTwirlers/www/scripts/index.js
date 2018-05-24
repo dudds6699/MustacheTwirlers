@@ -8,6 +8,10 @@
     "use strict";
 
     document.addEventListener( 'deviceready', onDeviceReady.bind( this ), false );
+    //var db = firebase.firestore();
+    //db.collection("events").add({ first: "login" }).then(function (docref) {
+    //    console.log(docref.id);
+    //});
 
     function onDeviceReady() {
         // Handle the Cordova pause and resume events
