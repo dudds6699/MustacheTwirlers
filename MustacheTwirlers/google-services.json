@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "897702754193",
+    "firebase_url": "https://mustachetwirlers.firebaseio.com",
+    "project_id": "mustachetwirlers",
+    "storage_bucket": "mustachetwirlers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897702754193:android:3dfcb31d48267fdf",
+        "android_client_info": {
+          "package_name": "com.villians.mustachetwirlers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897702754193-t8st04l9mgq1nfvq6of5osu4ebt6om6l.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "897702754193-t8st04l9mgq1nfvq6of5osu4ebt6om6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC26ltcwxVeRexkHwEri2hTl06FI5LELTs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
